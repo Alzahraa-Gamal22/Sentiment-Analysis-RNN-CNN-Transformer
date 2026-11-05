@@ -3,5 +3,4 @@ dataset/
 __pycache__/
 *.pyc
 .env
-
 IMDB Dataset.csv
